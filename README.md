@@ -1,4 +1,4 @@
-# Project: Password Generator
+# Project: Password Generator <a href="https://endearing-snickerdoodle-5babc6.netlify.app/"> Live Demo </a>
 
 ## Description:
 It is a type of web application that can be used to generate passwords based upon different criteria like what will be the length of the generated password, whether the password should contain letters, numbers or symbols, etc.  It is created using HTML, CSS, and JavaScript.
@@ -22,6 +22,6 @@ It is a type of web application that can be used to generate passwords based upo
 
 
 
-## <a href="https://endearing-snickerdoodle-5babc6.netlify.app/"> Live Demo </a>
+
 
 Happy Coding!
