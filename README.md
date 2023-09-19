@@ -5,10 +5,11 @@ It is a type of web application that can be used to generate passwords based upo
 
 ## Features:
 - It can be used to generate passwords of default criteria
-- generate based upon the specified length
+- generate based on the specified length
 - can generate passwords based upon criteria between letters, numbers, symbols
 - show the status of password generation
 - guide the user through hints
+- can copy generated password to clipboard and paste any place
 
 ## Output:
 
