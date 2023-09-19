@@ -1,14 +1,14 @@
 # Project: Password Generator
 
 ## Description:
-It is a type of web application which can be used to generate password based upon different criteria like what will be the length of generated password, whether password should contain letters, numbers or symbols etc.  It is created using HTML, CSS, and JavaScript.
+It is a type of web application that can be used to generate passwords based upon different criteria like what will be the length of the generated password, whether the password should contain letters, numbers or symbols, etc.  It is created using HTML, CSS, and JavaScript.
 
 ## Features:
-- It can be used to generate password of default criterial
-- generate based upon specified length
+- It can be used to generate passwords of default criteria
+- generate based upon the specified length
 - can generate passwords based upon criteria between letters, numbers, symbols
 - show the status of password generation
-- guide user through hints
+- guide the user through hints
 
 ## Output:
 
@@ -20,5 +20,8 @@ It is a type of web application which can be used to generate password based upo
 
 ![when one condition true](image-3.png)
 
+
+
+## <a href="https://endearing-snickerdoodle-5babc6.netlify.app/"> Live Demo </a>
 
 Happy Coding!
